@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "pCode": "MMR001",
+        "name": "Kachin",
+        "description": "ကချင်ပြည်နယ်",
+        "isActive": true,
+        "sort": 1
+    },
+    {
+        "id": 2,
+        "pCode": "MMR002",
+        "name": "Kayah",
+        "description": "ကယားပြည်နယ်",
+        "isActive": true,
+        "sort": 2
+    },
+    {
+        "id": 3,
+        "pCode": "MMR003",
+        "name": "Kayin",
+        "description": "ကရင်ပြည်နယ်",
+        "isActive": true,
+        "sort": 3
+    },
+    {
+        "id": 4,
+        "pCode": "MMR004",
+        "name": "Chin",
+        "description": "ချင်းပြည်နယ်",
+        "isActive": true,
+        "sort": 4
+    },
+    {
+        "id": 5,
+        "pCode": "MMR005",
+        "name": "Sagaing",
+        "description": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "isActive": true,
+        "sort": 5
+    },
+    {
+        "id": 6,
+        "pCode": "MMR006",
+        "name": "Tanintharyi",
+        "description": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "isActive": true,
+        "sort": 6
+    },
+    {
+        "id": 7,
+        "pCode": "MMR007",
+        "name": "Bago (East)",
+        "description": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)",
+        "isActive": true,
+        "sort": 7
+    },
+    {
+        "id": 8,
+        "pCode": "MMR008",
+        "name": "Bago (West)",
+        "description": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)",
+        "isActive": true,
+        "sort": 8
+    },
+    {
+        "id": 9,
+        "pCode": "MMR009",
+        "name": "Magway",
+        "description": "မကွေးတိုင်းဒေသကြီး",
+        "isActive": true,
+        "sort": 9
+    },
+    {
+        "id": 10,
+        "pCode": "MMR010",
+        "name": "Mandalay",
+        "description": "မန္တလေးတိုင်းဒေသကြီး",
+        "isActive": true,
+        "sort": 10
+    },
+    {
+        "id": 11,
+        "pCode": "MMR011",
+        "name": "Mon",
+        "description": "မွန်ပြည်နယ်",
+        "isActive": true,
+        "sort": 11
+    },
+    {
+        "id": 12,
+        "pCode": "MMR012",
+        "name": "Rakhine",
+        "description": "ရခိုင်ပြည်နယ်",
+        "isActive": true,
+        "sort": 12
+    },
+    {
+        "id": 13,
+        "pCode": "MMR013",
+        "name": "Yangon",
+        "description": "ရန်ကုန်ဒေသကြီး",
+        "isActive": true,
+        "sort": 13
+    },
+    {
+        "id": 14,
+        "pCode": "MMR014",
+        "name": "Shan (South)",
+        "description": "ရှမ်းပြည်နယ် (တောင်)",
+        "isActive": true,
+        "sort": 14
+    },
+    {
+        "id": 15,
+        "pCode": "MMR015",
+        "name": "Shan (North)",
+        "description": "ရှမ်းပြည်နယ် (မြောက်)",
+        "isActive": true,
+        "sort": 15
+    },
+    {
+        "id": 16,
+        "pCode": "MMR016",
+        "name": "Shan (East)",
+        "description": "ရှမ်းပြည်နယ် (အရှေ့)",
+        "isActive": true,
+        "sort": 16
+    },
+    {
+        "id": 17,
+        "pCode": "MMR017",
+        "name": "Ayeyarwady",
+        "description": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "isActive": true,
+        "sort": 17
+    },
+    {
+        "id": 18,
+        "pCode": "MMR018",
+        "name": "Nay Pyi Taw",
+        "description": "နေပြည်တော်",
+        "isActive": true,
+        "sort": 18
+    }
+]
